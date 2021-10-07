@@ -1,0 +1,17 @@
+{
+    "db": [   
+        {
+        "email": "data.email",
+        "password": "data.password"
+        }
+    ],
+
+    "Profiles": [
+        {
+        "name": "data.name",
+        "lastname": "data.lastname",
+        "avatar": "data.avatar"        
+      }
+    ]
+
+}
